@@ -32,7 +32,7 @@
     height: 90px;
     width: 100%;
     overflow: hidden;
-    background: white url('../assets/mesh_1.jpeg') no-repeat center center;
+    background: white url('assets/mesh_1.jpeg') no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -192,7 +192,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-image: url('/main_folder/assets/mesh_2.jpeg');
+    background-image: url('assets/mesh_2.jpeg');
     background-position: -150px center;
     text-decoration: none;
     border-radius: 8px;
@@ -224,7 +224,7 @@
  /* ------------ Card design ------------*/
  
  .card{
-    background-image: url('/main_folder/assets/mesh_2.jpeg');
+    background-image: url('assets/mesh_2.jpeg');
     padding-top: 10px;
     padding-bottom: 0px;
     border-radius: 5px;
