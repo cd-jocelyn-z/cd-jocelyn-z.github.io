@@ -32,7 +32,7 @@
     height: 90px;
     width: 100%;
     overflow: hidden;
-    background: white url('mesh_1.jpeg') no-repeat center center;
+    background: white url('../assets/mesh_1.jpeg') no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
