@@ -135,6 +135,18 @@
      font-size: 14px;
      
   }
+
+  .element-list-description {
+   color: #9b9b9b;
+   list-style: none;
+   padding-bottom: 5px;
+   font-size: 13px;
+  }
+
+  .element-list-title {
+   font-weight: bold;
+   font-size: 14px;
+   }
  
   .my_name {
     font-size: 25px;
