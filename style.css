@@ -157,13 +157,19 @@
     font-style: italic;
  }
  
+ .highlight {
+   color: #e9e8e8; 
+   background-color: rgb(96, 46, 151); 
+   font-weight: medium; 
+   padding: 1px 2px; 
+   border-radius: 3px;
+}
+
    /* ------------ Icon styling------------ */ 
 
 .soc-col-email{
     width: 100%;
 }
-
-
 
   /* ------------ Social Column ------------ */
  
